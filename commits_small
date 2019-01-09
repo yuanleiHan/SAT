@@ -1,0 +1,100 @@
+0 0 Merge remote-tracking branch 'origin/1.0-maintenance'
+
+2 0 add changelog for GH-2986
+
+3 0 Do not handle RoutingExceptions with app error handlers
+
+4 0 Merge pull request #2934 from garenchan/bugfix-#2933
+
+5 0 Make sure the attachment filename is text type. If attachment filename is bytes type and contains non-ascii coded bytes, then the following ASCII encoding process will trigger UnicodeDecodeError exception.
+
+7 0 add changelog for GH-2957
+
+8 0 Allow partial content on bytesio
+
+11 0 clean up flask --version code
+
+12 0 add werkzeug to flask --version
+
+15 0 simplify mongoengine doc, redirect from mongokit
+
+16 0 Replace MongoKit by MongoEngine on docs
+
+17 0 Merge pull request #3067 from pallets/tutorial-flask-run
+
+18 0 clarify where to call flask run from in tutorial
+
+19 0 Merge pull request #2970 from stepharr/patch-1
+
+20 0 Adding conjunction where for clarification
+
+21 0 Merge pull request #2875 from nathanbegbie/patch-1
+
+22 0 Update docs on larger applications wrt tutorial
+
+23 0 Merge pull request #2918 from garenchan/docs2
+
+24 0 Docs: fix some typos in config.rst
+
+25 0 Merge pull request #2854 from dougthor42/update-docs-to-be-more-clear-about-from_config-instantiation-#2853
+
+26 0 document that Config.from_object uses object as-is
+
+27 0 Merge pull request #2913 from onovy/contributing-manifest
+
+28 0 Install CONTRIBUTING.rst with MANIFEST.in
+
+29 0 Merge pull request #3066 from pallets/no-osx
+
+30 0 disable slow travis osx env
+
+33 0 Merge pull request #3056 from tirkarthi/fix-syntax-warning
+
+34 0 use "-m virtualenv" in installation doc
+
+35 0 remove syntax warning from docstring
+
+36 0 Merge pull request #3054 from tirkarthi/fix-py37-warnings
+
+37 0 Fix DeprecationWarning on collections import
+
+38 0 Merge pull request #3051 from ExplodingCabbage/tojson-docs-fixes
+
+39 0 Clarify and add detail to tojson docs Fix some confusing and obsolete prose.
+
+40 0 Merge pull request #3049 from RohanTalip/scriptinfo-typo
+
+41 0 Corrected a typo in a docstring: "Help object" --> "Helper object"
+
+42 0 Merge pull request #3031 from jseldess/fix-typos
+
+43 0 Fix typos found while completing the Flask tutorial
+
+44 0 Merge pull request #3044 from garenchan/ci-test
+
+45 0 use specific pypy versions for travis xenial remove 3.6 from appveyor, reduce in tox remove deprecated travis feature "sudo: false" split docs and devel,lowest travis envs remove osx py2 env in attempt to finish faster move travis matrix to python key
+
+46 0 Add Python 3.7 to CI.
+
+47 0 Merge pull request #3019 from colincadams/patch-2
+
+48 0 Clarify prefixing of URLs for blueprint endpoints
+
+49 0 Merge pull request #3011 from greyli/improve-cli-help-text
+
+50 0 Use imperative tense for CLI help text
+
+52 0 Add SPA pattern to docs
+
+53 0 Merge pull request #3059 from mattrobenolt/fspath
+
+54 0 Add support for PathLike objects in static file helpers
+
+57 0 Merge pull request #3064 from pallets/docs-fix
+
+58 0 fix docs build
+
+59 0 clear KeyError in production for Werkzeug 0.15
+
+61 0 Add comment about using factory function in __init__.py
+

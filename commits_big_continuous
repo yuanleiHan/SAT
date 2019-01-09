@@ -1,0 +1,56 @@
+480 7 Merge pull request #2373 from davidism/reload_templates_run_debug
+
+481 7 Correctly encode aware, non-UTC datetime objects
+
+482 7 test no debug flag doesn't reconfigure test templates_auto_reload property instead of config use app fixture in test
+
+483 7 Add UTs for #2372
+
+484 6 reconfigure the app from run command and method extract templates_auto_reload to property continues #1910 closes #1907
+
+  
+560 10 Merge pull request #1887 from zevaverbach/patch-1
+
+561 45 Merge pull request #1621 from Ostrovski/0.10-maintenance
+
+562 869 Merge pull request #2309 from aqt01/master
+
+563 1075 Add capitalize and other details
+
+564 1075 Merge branch 'master' into improve-flaskr
+
+  
+587 4 Merge pull request #2323 from dawran6/test-fixture
+
+588 26 Merge pull request #2321 from dawran6/test-bp-url
+
+589 6 Correcting name of GreenletContextCopying test class (to start with 'Test'), making it extend object, and also having the test methods in it include 'self' as first argument.
+
+590 4 Merge remote-tracking branch 'pallets/master' into 2313-refactor-gevent-tests-into-class
+
+591 7 Bundling 'test_greenlet_context_copying' functions into a new class in tests/test_reqctx.py.
+
+592 33 Cleanup test_blueprint.py to use test fixtures
+
+593 28 Add test for Blueprint app-wide url processing
+
+  
+595 889 add changelog [ci skip]
+
+596 896 Merge pull request #2320 from markshannon/fix-click-dependency-info
+
+597 896 shorten cli factory name [ci skip]
+
+598 7 add lowest click version to tox add devel click version to tox add devel markupsafe version to tox
+
+599 889 Merge pull request #2315 from leviroth/powershell-docs
+
+600 889 Update click dependency info.
+
+601 889 DRYing up the test suite using pytest fixtures (#2306)
+
+602 896 Check if app factory takes script_info argument and call it with(out) script_info as an argument depending on that
+
+603 7 Merge pull request #2318 from bovarysme/fix-testing-docs
+
+  

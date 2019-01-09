@@ -1,0 +1,100 @@
+517 26 mention mimetype and is_json
+
+520 26 Clarify documentation for json parsing
+
+588 26 Merge pull request #2321 from dawran6/test-bp-url
+
+459 27 Merge pull request #2394 from davidism/remove-deprecated
+
+593 28 Add test for Blueprint app-wide url processing
+
+318 29 Merge pull request #2622 from pallets/versions
+
+332 29 Update cli help for FLASK_ENV
+
+334 29 Merge pull request #2606 from pallets/run-ssl
+
+336 29 Changed Werkzeug min version to 0.14 to support SameSite cookie's attribute
+
+441 31 support passing environ to test client (#2412)
+
+592 33 Cleanup test_blueprint.py to use test fixtures
+
+310 36 Merge pull request #2636 from pallets/test-cli-runner
+
+525 42 Merge branch 'master' into json-object-hook
+
+561 45 Merge pull request #1621 from Ostrovski/0.10-maintenance
+
+327 55 use traceback to detect call more reliably
+
+328 56 Merge pull request #2603 from greyli/patch-8
+
+665 59 Bump to dev version
+
+582 176 More DRYing up the test suite (#2325)
+
+583 176 Minor edits to tutorial for clarity. (#2330)
+
+581 181 PyCharm Run Configuration Guide
+
+562 869 Merge pull request #2309 from aqt01/master
+
+595 889 add changelog [ci skip]
+
+599 889 Merge pull request #2315 from leviroth/powershell-docs
+
+600 889 Update click dependency info.
+
+601 889 DRYing up the test suite using pytest fixtures (#2306)
+
+596 896 Merge pull request #2320 from markshannon/fix-click-dependency-info
+
+597 896 shorten cli factory name [ci skip]
+
+602 896 Check if app factory takes script_info argument and call it with(out) script_info as an argument depending on that
+
+563 1075 Add capitalize and other details
+
+564 1075 Merge branch 'master' into improve-flaskr
+
+390 1222 Fixed tests for python 3
+
+265 1247 Merge pull request #2709 from davidism/docs-theme
+
+221 1248 fix docs index sidebar
+
+240 1248 Merge pull request #2720 from pallets/setup-link
+
+244 1248 add donate link
+
+247 1248 Merge pull request #2719 from greyli/patch-9
+
+277 1252 Merge pull request #2693 from davidism/max-cookie-size
+
+162 1254 Merge pull request #2754 from danielopitz/master
+
+184 1254 Merge branch '1.0-maintenance'
+
+194 1254 Merge pull request #2746 from pallets/2742-empty-url-prefix
+
+389 1267 Fix ValueError for some invalid Range requests
+
+262 1319 enable intersphinx
+
+272 1319 add changelog for 0.12.3
+
+220 1320 fix docs index sidebar
+
+237 1320 Bump version number to 0.12.4.dev
+
+243 1320 add donate link
+
+246 1320 add donate link
+
+161 1326 Fixed LaTeX errors on documentation PDF generation
+
+183 1326 fix changelog link
+
+191 1326 Bump version number to 0.12.5.dev
+
